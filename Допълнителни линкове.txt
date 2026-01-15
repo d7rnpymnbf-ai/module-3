@@ -1,0 +1,3 @@
+НИШКИ. МНОГОНИШКОВО ПРОГРАМИРАНЕ: https://javac.bg/?p=312
+
+The Java Tutorials: https://docs.oracle.com/javase/tutorial/essential/concurrency/
