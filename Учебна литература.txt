@@ -1,0 +1,35 @@
+Introduction to Parallel Computing,  Ananth Grama, Anshul Gupta, George Karypis, and Vipin Kumar
+
+Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers",  Barry Wilkinson and Michael Allen
+
+Multicore and GPU Programming: An Integrated Approach", Gerassimos Barlas
+
+The Art of Multiprocessor Programming, Maurice Herlihy and Nir Shavit
+
+Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, by Simon Marlow
+
+Concurrency in C# Cookbook, by Stephen Cleary
+
+Structured Parallel Programming, Michael McCool, James Reinders, Arch Robison, Publisher: Morgan Kaufmann (2012)
+
+Introduction to Concurrency in Programming Languages, Matthew J. Sottile, Timothy G. Mattson, Craig E. Rasmussen, Chapman and Hall/CRC (2009). 
+
+Patterns for Parallel Programming, Timothy G. Mattson, Beverly A. Sanders, Berna L. Massingill, Addison-Wesley, (2005)
+
+Parallel Supercomputing in MIMD architectures, Hord, R.M., 2018.  CRC press (2018)
+
+Parallel Programming in C with MPI and OpenMP, Michael J. Quinn, McGraw Hill Higher Education, International Edition, (2003)
+
+Programming massively parallel processors: a hands-on approach. Kirk, D.B. and Wen-Mei, W.H., Morgan Kaufmann (2016).
+
+The OpenMP API specification for parallel programming (http://openmp.org)
+
+MPI Forum (http://mpi-forum.org/)
+
+Open MPI (https://www.open-mpi.org/)
+
+Learning .NET High-performance Programming, Antonio Esposito, Packt Publishing (2015)
+
+Asynchronous programming, (06/20/2016) https://docs.microsoft.com/en-us/dotnet/csharp/async
+
+Introduction to PLINQ, (03/30/2017) https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/introduction-to-plinq
